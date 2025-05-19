@@ -140,7 +140,6 @@ audio
 - numpy
 - spacytextblob
 - spacy
-- nltk
 - librosa
 - pyloudnorm
 - python-multipart
