@@ -1,19 +1,19 @@
-fastapi
-uvicorn
+fastapi==0.115.12
+uvicorn==0.34.1
 whisper
-torchaudio
-scikit-learn
-speechbrain
-nltk
-numpy
-spacytextblob
-spacy
-nltk
-librosa
-pyloudnorm
-matplotlib
-groq
-python-dotenv
-python-multipart
+torchaudio==2.6.0
+scikit-learn==1.6.1
+speechbrain==1.0.3
+nltk==3.9.1 
+numpy==2.2.4
+spacytextblob==5.0.0
+spacy==3.8.5
+librosa==0.11.0
+pyloudnorm==0.1.1
+matplotlib==3.10.1
+groq==0.22.0
+python-dotenv==1.1.0
+python-multipart==0.0.20
+ffmpeg==4.3.1
 
 
